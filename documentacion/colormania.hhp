@@ -1,0 +1,13 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=PA_Colormania.chm
+Contents file=Table of Contents.hhc
+Default topic=General.htm
+Display compile progress=No
+Index file=Index.hhk
+Language=0x100a Español (Guatemala)
+Title=Colormania
+
+
+[INFOTYPES]
+
